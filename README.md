@@ -5,6 +5,7 @@
 3. Randomize button for filling the final 3 fields
 4. Run to see if it works
 5. Save will create a file called "save.json" in the directory of the exe. Make one for future use.
+![無題](https://user-images.githubusercontent.com/102288745/160155340-f22fd7e5-6329-4f18-8d66-a6e645442f83.png)
 
 
 
