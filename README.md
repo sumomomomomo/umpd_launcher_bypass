@@ -11,7 +11,7 @@
 
 How to generate login_secure_id and login_session_id:
 
-Login to dmm.com with the same account used to download UMPD from the official launcher.   
+Login to dmm.com with the same account used to run UMPD with from the official launcher.   
 Using eg. Chrome, the values of the cookies "login_secure_id" and "login_session_id" can be found here:  
 ![無題](https://user-images.githubusercontent.com/102288745/160154313-ed7b7630-0d4e-42d7-ba30-ae44a2b6e966.png)
 
