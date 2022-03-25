@@ -1,6 +1,6 @@
 # umpd_launcher_bypass
 
-1. Input the location of umamusume.exe
+1. Input the path to umamusume.exe
 2. Input login_secure_id and login_session_id
 3. Randomize button for filling the final 3 fields
 4. Run to see if it works
