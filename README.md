@@ -17,4 +17,4 @@ Using eg. Chrome, the values of the cookies "login_secure_id" and "login_session
 ![無題](https://user-images.githubusercontent.com/102288745/160154313-ed7b7630-0d4e-42d7-ba30-ae44a2b6e966.png)
 
 Unfortunately there is no way to bypass the region lock, if you are locked.  
-Connect to any crappy Jap vpn like psiphon before pressing the "Run" button and it should work.
+Connect to any crappy Jap vpn you want before pressing the "Run" button and it should work.
